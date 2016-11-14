@@ -1,0 +1,3 @@
+# gooreplacerRule
+
+rule for myself
